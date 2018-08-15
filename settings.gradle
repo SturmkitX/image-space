@@ -1,0 +1,6 @@
+rootProject.name = 'server'
+include 'model'
+include 'view'
+include 'controller'
+include 'utils'
+
